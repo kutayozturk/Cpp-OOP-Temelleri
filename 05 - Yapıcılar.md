@@ -1,6 +1,8 @@
+> Yapıcı kelimesi oluşturma, oluşturucu olarakda kullanılmaktadır.
+
 Yapıcı, sınıfla aynı ada sahip özel bir üye işlevdir. Yapıcının bir dönüş türü yoktur. Yapıcılar, sınıflarının nesnelerini başlatmak için kullanılır. Yapıcılar, bir nesne oluşturulduğunda otomatik olarak çağrılır.
  
-### C++'da Oluşturucuların Özellikleri
+### C++'da Yapıcılarn Özellikleri
 - Sınıfın genel bölümünde bir yapıcı bildirilmelidir.
 - Nesne oluşturulduğunda otomatik olarak çağrılır.
 - Değer döndüremezler ve dönüş türleri yoktur.
@@ -49,8 +51,8 @@ int main()
 ```
 3
 ```
-### C++'da Parametreli ve Varsayılan Oluşturucular
-Parametreli oluşturucular, bir veya daha fazla parametre alan oluşturuculardır. Varsayılan kurucular, parametre almayan kuruculardır. Bu, yukarıdaki örnekte yalnızca tanım sırasında çalışan adını ileterek yardımcı olabilirdi. Bu, setName işlevini kaldırmalıydı.
+### C++'da Parametreli ve Varsayılan Yapıcılar
+Parametreli yapıcılar, bir veya daha fazla parametre alan yapıcılardır. Varsayılan kurucular, parametre almayan kuruculardır. Bu, yukarıdaki örnekte yalnızca tanım sırasında çalışan adını ileterek yardımcı olabilirdi. Bu, setName işlevini kaldırmalıydı.
 
 ### C++'da Yapıcı Aşırı Yüklemesi
 Yapıcı aşırı yükleme, işlev aşırı yüklemesine benzer bir kavramdır. Burada, bir sınıfın farklı parametrelere sahip birden çok yapıcısı olabilir. Bir örneğin tanımı sırasında, bağımsız değişkenlerin sayısı ve türüyle eşleşen yapıcı yürütülür.
@@ -71,9 +73,9 @@ public:
 ```
 
 ### Yapıcıyı C++ ile Kopyala
-Kopya oluşturucu, başka bir nesnenin kopyasını oluşturan bir tür oluşturucudur. Bir nesnenin başka bir nesneye benzemesini istiyorsak, bir kopya oluşturucu kullanabiliriz. Programda herhangi bir kopya oluşturucu yazılmamışsa, derleyici kendi kopya oluşturucusunu sağlayacaktır. 
+Kopya oluşturucu, başka bir nesnenin kopyasını oluşturan bir tür oluşturucudur. Bir nesnenin başka bir nesneye benzemesini istiyorsak, bir kopya yapıcı kullanabiliriz. Programda herhangi bir kopya yapıcı yazılmamışsa, derleyici kendi kopya yapıcısını sağlayacaktır. 
 
-Bir kopya oluşturucu bildirmek için sözdizimi şöyledir:
+Bir kopya yapıcı bildirmek için sözdizimi şöyledir:
 ```
 class class_name
 {
