@@ -1,4 +1,4 @@
-# C++ OOP - Nesne Yönelimli Programlama
+# C++ OOP Temelleri
 
 ## OOP nedir?
 OOP, Nesne Yönelimli Programlama anlamına gelir. Nesne yönelimli bir programlama dili, programlamasında nesneleri kullanır. Nesne yönelimli kavramlarla programlama, bir programda kalıtım, polimorfizm, soyutlama vb. gibi gerçek dünya kavramlarını taklit etmeyi amaçlar.
