@@ -1,5 +1,5 @@
 ## Class'lar (Sınıflar)
-Sınıflar ve yapılar biraz aynıdır ancak yine de bazı farklılıkları vardır. Örneğin, yapılarda veri saklayamayız, bu da her şeyin halka açık olduğu ve kolayca erişilebildiği anlamına gelir ki bu da yapının önemli bir dezavantajıdır çünkü veri güvenliğinin önemli olduğu yerlerde yapılar kullanılamaz. Yapıların bir diğer dezavantajı ise onlara fonksiyon ekleyemememizdir.
+Sınıflar ve yapılar biraz aynıdır ancak yine de bazı farklılıkları vardır. Örneğin, yapılarda veri saklayamayız, bu da her şeyin public (halka açık) olduğu ve kolayca erişilebildiği anlamına gelir ki bu da yapının önemli bir dezavantajıdır çünkü veri güvenliğinin önemli olduğu yerlerde yapılar kullanılamaz. Yapıların bir diğer dezavantajı ise onlara fonksiyon ekleyemememizdir.
 
 Sınıflar, kullanıcı tanımlı veri türleridir ve nesneleri oluşturmak için bir şablondur. Sınıflar, sınıf üyeleri olarak da adlandırılan değişkenler ve işlevlerden oluşur.
 
