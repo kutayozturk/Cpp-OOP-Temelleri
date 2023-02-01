@@ -1,10 +1,10 @@
-### C++'da Genel Erişim Belirteçleri
+## C++'da Genel Erişim Belirteçleri
 Genel erişim değiştiricisi altında bildirilen tüm değişkenler ve işlevler herkes tarafından kullanılabilir olacaktır. Hem sınıf içinden hem de sınıf dışından erişilebilirler. Nokta (.) operatörü, programda genel veri üyelerine doğrudan erişmek için kullanılır.
 
-### C++'da Özel Erişim Belirteçleri
+## C++'da Özel Erişim Belirteçleri
 Özel erişim değiştiricisi altında bildirilen tüm değişkenler ve işlevler yalnızca sınıf içinde kullanılabilir. Sınıf dışında herhangi bir nesne veya işlev tarafından kullanılmasına izin verilmez.
 
-### C++'da Korumalı Erişim Belirteçleri
+## C++'da Korumalı Erişim Belirteçleri
 Korumalı erişim değiştiricileri, özel erişim değiştiricilerine benzer, ancak korumalı erişim değiştiricilerine türetilmiş sınıfta erişilebilirken, özel erişim değiştiricilerine türetilmiş sınıfta erişilemez. 
 
 **Aşağıda, erişim değiştiricilerin genel, özel ve korumalı türetildiğindeki davranışını gösteren bir tablo gösterilmektedir.**
