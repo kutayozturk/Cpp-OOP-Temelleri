@@ -1,4 +1,3 @@
-# C++'a Genel Bakış
 ## Class'lar (Sınıflar)
 Sınıflar ve yapılar biraz aynıdır ancak yine de bazı farklılıkları vardır. Örneğin, yapılarda veri saklayamayız, bu da her şeyin halka açık olduğu ve kolayca erişilebildiği anlamına gelir ki bu da yapının önemli bir dezavantajıdır çünkü veri güvenliğinin önemli olduğu yerlerde yapılar kullanılamaz. Yapıların bir diğer dezavantajı ise onlara fonksiyon ekleyemememizdir.
 
