@@ -15,7 +15,7 @@ Bu, işlevlere veya prosedürlere dayanan C gibi dillerdeki en büyük sorundu (
 - Veriler, işlevden işleve açık bir şekilde taşınır
 - Nesne yönelimli programlama
 
-### Sınıflar ve nesne kavramı üzerinde çalışır
+### Sınıflar ve nesne kavramı birlikte çalışabilir
 - Sınıf, nesneler oluşturmak için bir şablondur
 - Verileri kritik bir öğe olarak ele alır
 - Nesnelerdeki sorunu ayrıştırır ve nesnelerin çevresinde veri ve işlevler oluşturur
